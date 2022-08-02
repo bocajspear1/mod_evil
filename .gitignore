@@ -1,0 +1,8 @@
+*.so
+*.o
+*.la
+*.lo
+*.slo
+.vscode/
+.libs/
+mod_evil_hashes.txt
